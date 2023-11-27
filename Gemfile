@@ -68,4 +68,5 @@ end
 
 group :development, :test do
   gem "rspec-rails", "~> 6.1"
+  gem "test-unit"
 end
